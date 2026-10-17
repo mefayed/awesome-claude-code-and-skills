@@ -741,6 +741,11 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Compare competing approaches side by side
   - TypeScript, MIT licensed
 
+- [mefayed/boss-skill](https://github.com/mefayed/boss-skill) ![Stars](https://img.shields.io/github/stars/mefayed/boss-skill?style=flat-square)
+  - Claude Code plugin that turns the main session into a supervisor for Haiku, Sonnet, and Opus subagents
+  - Keeps small work inline, dispatches larger tasks, and reads every diff before reporting back
+  - Optional model debates before hard-to-reverse decisions; markdown plus one shell hook, MIT licensed
+
 ### Parallel Processing
 
 - [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) ![Stars](https://img.shields.io/github/stars/Dicklesworthstone/claude_code_agent_farm?style=flat-square)
